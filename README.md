@@ -1,2 +1,2 @@
 # codigo-limpo-resumo
-## oiiii
+## Ler Livro Código Limpo  Capitulo 2-4-6 
